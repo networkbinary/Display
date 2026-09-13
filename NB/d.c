@@ -1,3 +1,9 @@
+/*
+Author:NetworkBinary
+Reg No:BCS-05-0541
+*/
+
+//Program to display NB
 #include <stdio.h>
 int main() {
     printf("|||\\\\      |||   |||\\\\\\\\\\\\\\\\\\\n");
